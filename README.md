@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am hobbyist programmer, classical guitar student, and I like jogging.
+
+I am currently working on interesting music score library.
+
 <!--
 **sammefi/sammefi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
